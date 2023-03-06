@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.active {
+  color: #ffff;
+}
+
+.li_hover:hover {
+  background-color: #5c5c5c;
+  color: #ffff;
+}
